@@ -1,4 +1,5 @@
-# foss-gcekRithik
+# foss-gcek
+Rithik
 Shilpa
 Vismaya
 Namitha
